@@ -17,7 +17,7 @@
 
     <TextView
         android:id="@+id/tvDescription"
-        android:layout_width="0dp"
+        android:layout_width="100dp"
         android:layout_height="wrap_content"
         tools:text="Nota"
         android:textAppearance="?attr/textAppearanceListItem"
